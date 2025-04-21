@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ItsK4tune/ci-cd:staging2
+          tags: ItsK4tune/test-cicd:staging2
 
 
   pull-and-up:
